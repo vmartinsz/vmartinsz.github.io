@@ -1,0 +1,15 @@
+# GitHub Pages configuration
+title: IS Help Landing Page
+description: Landing page estática do time IS para auxiliar usuários da operação.
+lang: pt-BR
+
+# GitHub Pages
+theme: null
+
+# Do not process these folders/files with Jekyll
+exclude:
+  - README.md
+
+# Keep assets available
+include:
+  - assets
